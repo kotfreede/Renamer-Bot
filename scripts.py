@@ -9,7 +9,7 @@ class Scripted(object):
 
 
     HELP_TEXT = """
-<i>𝐖𝐚𝐭𝐜𝐡 𝐕𝐢𝐝𝐞𝐨 𝐇𝐨𝐰 𝐭𝐨 𝐔𝐬𝐞 𝐌𝐞 <a href='https://youtu.be/HnXdu74o34E'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></i>\n
+<i>𝗨𝗣𝗗𝗔𝗧𝗘 𝗖𝗛𝗔𝗡𝗡𝗘𝗟<a href='https://t.me/KING_OF_THE_CARTOONS_CHANNEL'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></i>\n
 <i>𝐒𝐞𝐧𝐝 𝐚 𝐩𝐡𝐨𝐭𝐨 𝐭𝐨 𝐦𝐚𝐤𝐞 𝐢𝐭 𝐚𝐬 𝐭𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 (optional)</i>\n
 <i>𝐒𝐞𝐧𝐝 𝐦𝐞 𝐚𝐧𝐲 𝐟𝐢𝐥𝐞 (or) 𝐌𝐞𝐝𝐢𝐚 𝐟𝐫𝐨𝐦 𝐭𝐞𝐥𝐞𝐠𝐫𝐚𝐦</i>\n
 <i>𝐂𝐨𝐧𝐯𝐞𝐫𝐭 𝐟𝐢𝐥𝐞𝐬 𝐢𝐧𝐭𝐨 𝐯𝐢𝐝𝐞𝐨 𝐮𝐬𝐞 /convert 𝐜𝐨𝐦𝐦𝐚𝐧𝐝</i>\n
@@ -19,15 +19,15 @@ class Scripted(object):
 
 
     ABOUT_TEXT = """
-<b>🤖 𝐌𝐲 𝐍𝐚𝐦𝐞 : <a href='https://t.me/Renamer_teleroid_bot'>Rename X2 Bot</a></b>\n
-<b>📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 : <a href='https://t.me/TeleRoidGroup'>TÉLÉRØÎD</a></b>\n
-<b>👥 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐕𝟐 : <a href='https://t.me/TeleRoid_Renamer_bot'>0.9.2 beta</a></b>\n
-<b>📥 𝐒𝐨𝐮𝐫𝐜𝐞 : <a href='https://github.com/P-Phreak/Renamer-bot'>Click Here</a></b>\n
+<b>🤖 𝐌𝐲 𝐍𝐚𝐦𝐞 : <a href='https://t.me/KOT_RENAME_X1_BOT'>𝗥𝗘𝗡𝗔𝗠𝗘 𝗫 𝗕𝗢𝗧</a></b>\n
+<b>📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 : <a href='https://t.me/KOT_BOTS'>𝗞𝗢𝗧 𝗕𝗢𝗧𝗦</a></b>\n
+<b>👥 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐕𝟐 : <a href='https://t.me/KOT_RENAME_X1_BOT'>0.9.2 beta</a></b>\n
+<b>📥 𝐒𝐨𝐮𝐫𝐜𝐞 : <a href='https://t.me/KOT_SOURCE_CODE'>Click Here</a></b>\n
 <b>🌐 𝐒𝐞𝐫𝐯𝐞𝐫 : <a href='https://heroku.com'>Heroku</a></b>\n
 <b>📕 𝐋𝐢𝐛𝐫𝐚𝐫𝐲 : <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a></b>\n
 <b>㊙ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞  : <a href='https://www.python.org'>Python 3.9.4</a></b>\n
-<b>👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 : <a href='https://t.me/PredatorHackerzZ_bot'>꧁ ƤℜɆĐ₳₮Øℜ 🇮🇳 ꧂</a></b>\n
-<b>📌 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Moviesflixers_DL'>Tᴀᴍɪʟᴡᴇʙ Tɢ Nᴇᴛᴡᴏʀᴋ</a></b>\n"""
+<b>👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 : <a href='https://t.me/KOT_FREE_DE_LA_HOYA_OFF'>Kᴏᴛ Dᴇᴠᴇʟᴏᴘᴇʀ</a></b>\n
+<b>📌 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : <a href='https://t.me/KING_OF_THE_CARTOONS_CHANNEL'>𝗞𝗢𝗧 𝗖𝗔𝗥𝗧𝗢𝗢𝗡𝗦</a></b>\n"""
 
 
     CUSTOM_CAPTION = "<i>{}</i>"
@@ -47,4 +47,4 @@ class Scripted(object):
     REPLY_TO_FILE = "<i>𝐑𝐞𝐩𝐥𝐲 𝐭𝐨 𝐭𝐡𝐚𝐭 𝐟𝐢𝐥𝐞 𝐰𝐢𝐭𝐡 /rename 𝐧𝐞𝐰 𝐧𝐚𝐦𝐞 .𝐞𝐱𝐭</i>"
     CONTACT_MY_DEVELOPER = "<i>𝕾𝖔𝖒𝖊𝖙𝖍𝖎𝖓𝖌 𝖂𝖗𝖔𝖓𝖌 𝕮𝖔𝖓𝖙𝖆𝖈𝖙 𝕸𝖞 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 🤯</i>"
     START_TEXT = "<i>𝕿𝖍𝖎𝖘 𝖎𝖘 𝖆 𝕾𝖎𝖒𝖕𝖑𝖊 𝖋𝖎𝖑𝖊 𝖗𝖊𝖓𝖆𝖒𝖊𝖗 & 𝕱𝖎𝖑𝖊 𝕮𝖔𝖓𝖛𝖊𝖗𝖙𝖊𝖗 𝖇𝖔𝖙 𝖜𝖎𝖙𝖍 𝖕𝖊𝖗𝖒𝖆𝖓𝖊𝖓𝖙 𝖙𝖍𝖚𝖒𝖇𝖓𝖆𝖎𝖑 𝖘𝖚𝖕𝖕𝖔𝖗𝖙 💯</i>"
-    UPGRADE_TEXT = "<b>To upgrade your subscription <a href='https://t.me/TeleRoid14'>[ 𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞 ]</a></b>"
+    UPGRADE_TEXT = "<b>To upgrade your subscription <a href='https://t.me/KOT_SOURCE_CODE'>[ 𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞 ]</a></b>"
